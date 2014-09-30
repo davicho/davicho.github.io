@@ -14,3 +14,5 @@ My Github Pages repo can be found at:
 And, soon, you can see my customized homepage at:
 
 [http://davicho.github.io/](http://davicho.github.io/)
+
+[It's not all work. ;)](http://davicho.com)
